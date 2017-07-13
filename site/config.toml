@@ -13,20 +13,20 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    title = "Bluenation - Turning ideas into design‑driven transformation."
+    subtitle = "We’re a collaborative group of more than 15 problem-solvers based in India, Delhi who run on relentless curiosity and strategic creativity. Caffeine helps, too."
+    author = "Vipin Nagpal"
+    description = "Ruby on Rails, Python, mobile development, and design firm - Bluenation"
+    keywords = "Ruby, Javascript, Node.js, Ruby on Rails, Android Development, iOS Development"
 
     # Body background color
     bodybgcolor = "#f9f9f9"
 
     # Preview container button text
-    buttontext = "Get the theme"
+    buttontext = "View"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "We'd love yo work with you. Send us an email to <hireus@bluenation.co>. <br/> © 2017 Bluenation LLC"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']

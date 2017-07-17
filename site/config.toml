@@ -14,7 +14,7 @@ publishdir = "public"
 [params]
     # Meta
     title = "Bluenation - Turning ideas into design‑driven transformation."
-    subtitle = "We’re a collaborative group of more than 15 problem-solvers based in India, Delhi who run on relentless curiosity and strategic creativity. Caffeine helps, too."
+    subtitle = "We’re a collaborative group of more than 15 problem-solvers based in India, Delhi who run on relentless curiosity and strategic creativity. Caffeine helps, too. Here are some awesome products we have worked on."
     author = "Vipin Nagpal"
     description = "Ruby on Rails, Python, mobile development, and design firm - Bluenation"
     keywords = "Ruby, Javascript, Node.js, Ruby on Rails, Android Development, iOS Development"

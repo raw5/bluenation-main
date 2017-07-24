@@ -20,13 +20,6 @@ alt = "Mandeep Ahlawat | RoR Developer"
 description = "AlternaCare is a remote healthcare access platform that allows patients to be able to connect with a highly qualified doctor within minutes on a phone call, text message, app or website."
 url = "https://alterna.care"
 [[items]]
-title = "WeWork"
-image = "images/full/wework.jpg"
-thumb = "images/thumbs/wework.jpg"
-alt = "Monish Agarwal | Android App Development"
-description = "WeWork is a global network of workspaces where companies grow together. We transform buildings into dynamic environments for creativity, focus, and collaboration."
-url = "https://www.wework.com/"
-[[items]]
 title = "Rank Tracker"
 image = "images/full/ranktracker.jpg"
 thumb = "images/thumbs/ranktracker.jpg"

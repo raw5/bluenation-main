@@ -13,10 +13,10 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Bluenation - Turning ideas into design‑driven transformation."
+    title = "Team at DoubleGeek is turning ideas into design‑driven transformation."
     subtitle = "We’re a collaborative group of more than 15 problem-solvers based in India, Delhi who run on relentless curiosity and strategic creativity. Caffeine helps, too. Here are some awesome products we have worked on."
     author = "Vipin Nagpal"
-    description = "Ruby on Rails, Python, mobile development, and design firm - Bluenation"
+    description = "Ruby on Rails, Python, mobile development, and design firm - DoubleGeek"
     keywords = "Ruby, Javascript, Node.js, Ruby on Rails, Android Development, iOS Development"
 
     # Body background color
@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = "View"
 
     # Footer text
-    footertext = "We’d love yo work with you. Send us an email to [**hireus@bluenation.co**](mailto:hireus@bluenation.co). © 2017 Bluenation.co"
+    footertext = "We’d love yo work with you. Send us an email to [**hireus@doublegeek.co**](mailto:hireus@doublegeek.co). © 2017 doublegeek.co"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']

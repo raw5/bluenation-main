@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = "View"
 
     # Footer text
-    footertext = "We’d love yo work with you. Send us an email to [**hireus@doublegeek.co**](mailto:hireus@doublegeek.co). © 2017 doublegeek.co"
+    footertext = "We’d love yo work with you. Send us an email to [**hire@doublegeek.co**](mailto:hire@doublegeek.co). © 2017 doublegeek.co"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
